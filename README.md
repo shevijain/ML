@@ -27,3 +27,6 @@ us projection matrix of test data with reduced dimension.
 with taking the value of K as 7. The K value chosen using trial and error
 13. So the highest no. of times a class occurs that image is classified as that class.
 14. After the algorithm is finished implementing, the accuracy of the model is calculated.
+
+
+The dataset can be found at https://www.kaggle.com/moltean/fruits
